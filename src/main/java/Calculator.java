@@ -64,4 +64,3 @@ public class Calculator {
         return add(dif(times(a, b), div(c, d)), dif(a, d));
     }
 }
-
